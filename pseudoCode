@@ -1,0 +1,5 @@
+Create function #getHumanChoice for player's input.
+Create function #getComputerChoice adding math.random for random selection of 0,1 or 2 related to rock, paper and scissors. 
+Create function #playRound and add functionality of tie, win or lose in it. 
+Create function #playGame with loop of 5 iterations and add scores to two global variables for tracking score.
+call the function #playGame
